@@ -4,4 +4,10 @@
     <string name="title">Tiffany FL</string>
     <string name="whoami">Qui suis-je ?</string>
     <string name="age">%1$d ans</string>
+    <string name="icon_phone">téléphone</string>
+    <string name="icon_email">email</string>
+    <string name="tab_whoami">Qui suis-je ?</string>
+    <string name="tab_projects">Mes projects</string>
+    <string name="tab_career">Mon parcours</string>
+    <string name="header_text">Mon parcours</string>
 </resources>

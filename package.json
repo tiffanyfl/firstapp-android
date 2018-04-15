@@ -1,0 +1,8 @@
+{
+  "name": "cloudfunction",
+  "description": "Cloud Function to send a FCM message",
+  "dependencies": {
+    "firebase-admin": "^5.8.2",
+    "firebase-functions": "^0.8.1"
+  }
+}

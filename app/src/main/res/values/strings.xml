@@ -3,4 +3,10 @@
     <string name="title">Tiffany FL</string>
     <string name="whoami">Who am I ?</string>
     <string name="age">%1$d years</string>
+    <string name="icon_phone">phone</string>
+    <string name="icon_email">email</string>
+    <string name="tab_whoami">Who am I?</string>
+    <string name="tab_projects">My projects</string>
+    <string name="tab_career">My career</string>
+    <string name="header_text">My career</string>
 </resources>
